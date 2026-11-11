@@ -2,3 +2,5 @@ numpy
 matplotlib
 ipykernel
 torch
+pandas
+scikit-learn
